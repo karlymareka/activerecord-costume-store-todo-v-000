@@ -5,6 +5,7 @@ end
 
 class CreateHauntedHouses < ActiveRecord::Migrations[4.2] 
   def change 
-    create_table :haunted_houses 
+    create_table :haunted_houses do |t|
+      
   end 
 end 
