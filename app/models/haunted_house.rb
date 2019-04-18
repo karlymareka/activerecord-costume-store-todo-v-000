@@ -3,4 +3,4 @@ class HauntedHouse < ActiveRecord::Base
   
 end 
 
-class 
+class CreateHauntedHouses 
