@@ -3,4 +3,4 @@ class Costume_Store < ActiveRecord::Base
   
 end
 
-class Create
+class CreateCostumeStore < ActiveRecord::Migration
