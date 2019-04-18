@@ -4,5 +4,7 @@ class HauntedHouse < ActiveRecord::Base
 end 
 
 class CreateHauntedHouses < ActiveRecord::Migrations[4.2] 
-  
+  def change 
+    
+  end 
 end 
