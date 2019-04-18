@@ -3,4 +3,4 @@ class HauntedHouse < ActiveRecord::Base
   
 end 
 
-class CreateHauntedHouses 
+class CreateHauntedHouses < ActiveRecord::Migrations[4.2] 
